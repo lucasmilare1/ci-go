@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "change number"
+        "change number",
+        "create  github actions to project"
     ]
 }
